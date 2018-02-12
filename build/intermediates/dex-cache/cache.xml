@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/6e8a7fd120f42ee9a5e8094698c02fefd00a5976/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_71021769266b3da12aac4d8c10d88328bb9fc004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b61431c07f2f308fe641c938a1c44754ebe98d6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4c634649719a3ccdf07327207c87ba8b13632201">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7952e882dd1c8bc9c43b1823073ed7ef2495ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/libs/motion-v2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d283a4a57df8f9d17ab12d4c7dfa6151a6d237cb">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/motion-v2.2.1_afb10fb6c9edbb6d24c38aa0b4717949f47c3263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/702ff463135377919a29a53e5303db75bbb92694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_5446e255ff86edad9b4671ce0007c13376311a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/9a7ead4cd7ade3be459ddd0b90b5be94ae9ef4ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_44914cc3c40b3fc8c4074577e802d2a03c93065d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/c7285a571fd31cb450e7502777adbecfdabbddda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_39306f39e8c500377abfc1cdf4c763b7492b9526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/3383e10a3b31933468dcb741ac0076efd9d6aeea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_7e9f198f82d45784ede79be9400a62bf7607f245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/libs/sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/sdk-v1.0.0_124a46d4ba2ac8f2adb704b4721ea6c2f5997ab2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/libs/sdk-v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/transforms/dex/debug/folders/1000/2/sdk-v1.0.0_124a46d4ba2ac8f2adb704b4721ea6c2f5997ab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/05b6b22421fb2ec4399ebf0a3229f4fa7a63c0ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_bdcc2fe6d2eda24837a3435064ddf8df92f32656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/50cb9fb3940761cff9e1d313688943d92d4deaf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_3b5adca1c336e68370156196d309d573f4942ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/8835cf531bfbed1e70402741ea87801fb322b600/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_70415f8496a9ba2aaed6b877e36399e042e01df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/30c5f7177196cb0909b612b3b70d31f54b0f1ee2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_674512e66adc7508c1d14f5654f6de2f79d903b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/a42b70739e8e5a81a5b8ab37df589cf2a999d9fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_63a561b455d576ac742d2344b2c5c0efd5ffad02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_08d26bda3b21abee8f77db0daeddefdbc89ff5db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/libs/motion-v2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d283a4a57df8f9d17ab12d4c7dfa6151a6d237cb">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/transforms/dex/debug/folders/1000/2/motion-v2.2.1_afb10fb6c9edbb6d24c38aa0b4717949f47c3263/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adewijanugraha/.android/build-cache/4a28a495a8205eef07d9c967710358010a51e26b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/pre-dexed/debug/classes_5351658cfc7f0140700e478fb17150fb792f35ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/CallMotionSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a601d9fff056a2e1939f75fc9fd0e938e16b54cb/classes.dex" />
+    </item>
+
+</items>
